@@ -1,1 +1,2 @@
 # SummerSchool
+My first program
